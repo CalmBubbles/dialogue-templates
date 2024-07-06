@@ -67,3 +67,11 @@ Adding delays without the arrow indicator appearing
 
         {DialogueLoop.Delay}
         {close box}
+
+
+"Why are there `ref.png` files with the template?"
+
+    I used real ingame screenshots to replicate their dialogue box.
+    I left them in just in case I need to fix big innacuracies.
+
+    You can also use them to compare the template's accuracy.
