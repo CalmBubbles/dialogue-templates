@@ -25,7 +25,7 @@ Notes:
 
     Making these stuff aren't easy, especially on my own.
     While working on DialogueSystem.js I was fighting time, but still ended up
-    being late. By like idk 2..? uhhhhhh... 3+ years..? maybe?
+    being late. By like idk 1..? uhhhhhh... 2+ years..? maybe?
 
     This template got unfinished because working with undertale's portraits is a
     little hard. The images per character don't have the same size and position.
