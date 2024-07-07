@@ -70,7 +70,7 @@ diaManager.Once(DialogueEvent.Load, async () => {
 
 diaManager.On(DialogueEvent.TypingEnter, () => arrow.style.display = "none");
 diaManager.On(DialogueEvent.TypingExit, () => arrow.style.display = "");
-diaManager.On(DialogueEvent.ClearText, () => arrow.style.display = "none");
+diaManager.On(DialogueEvent.LineClear, () => arrow.style.display = "none");
 
         </script>
     </body>

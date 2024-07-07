@@ -80,7 +80,7 @@ diaManager.Once(DialogueEvent.Load, async () => {
 
 diaManager.On(DialogueEvent.TypingEnter, () => arrowImg.style.display = "none");
 diaManager.On(DialogueEvent.TypingExit, () => arrowImg.style.display = "");
-diaManager.On(DialogueEvent.ClearText, () => arrowImg.style.display = "none");
+diaManager.On(DialogueEvent.LineClear, () => arrowImg.style.display = "none");
 
         </script>
     </body>
