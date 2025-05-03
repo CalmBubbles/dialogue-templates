@@ -1,4 +1,4 @@
-UNDEERTALE (Original game by Toby Fox)
+UNDERTALE (Original game by Toby Fox)
 
 
 Game: https://undertale.com
