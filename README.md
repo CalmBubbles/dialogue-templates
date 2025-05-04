@@ -3,6 +3,10 @@
 Cool project templates for [DialogueSystem.js](https://calmbubbles.github.io/works/js-plugins/DialogueSystem)
 
 
+> [!IMPORTANT]
+> The original creators of the games can request a template take down anytime
+
+
 
 ## Dweller's Empty Path
 ### [Original game](https://tuyoki.itch.io/dwellers-empty-path) by [Temmie Chang](https://tuyoki.itch.io)
