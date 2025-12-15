@@ -14,9 +14,9 @@ Cool project templates for [DialogueSystem.js](https://calmbubbles.github.io/wor
 - [Open download page](https://calmbubbles.github.io/works/js-plugins/DialogueSystem/templates/dep)
 - [View source code](https://github.com/calmbubbles/dialogue-templates/tree/main/dep)
 
-Version: 1f<br>
+Version: 1.1f<br>
 License: [Non-commercial](https://github.com/calmbubbles/dialogue-templates/blob/main/dep/LICENSE.md)<br>
-Last Updated: July 6, 2024
+Last Updated: December 15, 2025
 
 
 ## OMORI
