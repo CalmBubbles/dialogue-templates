@@ -1,4 +1,4 @@
-<!-- OMORI Template Version 1f -->
+<!-- OMORI Template Version 1.1f -->
 
 
 <!DOCTYPE html>
@@ -102,9 +102,9 @@ class TextWave extends DialogueTextAnimation
 
     OnSet (properties)
     {
-        this.#intensity = properties.Find("intensity") ?? 12;
-        this.#speed = properties.Find("speed") ?? 10;
-        this.#wavelength = properties.Find("wavelength") ?? 0.4;
+        this.#intensity = properties.Find("intensity")?.value ?? 12;
+        this.#speed = properties.Find("speed")?.value ?? 10;
+        this.#wavelength = properties.Find("wavelength")?.value ?? 0.4;
     }
 
     Update ()
